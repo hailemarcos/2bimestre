@@ -1,0 +1,21 @@
+Header{
+    width: 1440;
+    
+
+    
+}
+img{
+   height: 150px;
+}
+footer{
+    background-color: crimson;
+    height: 110px;
+    text-align: center;
+    align-items: center;
+    font-size: large;
+}
+homepage{
+   display: flex; 
+   align-items: center;
+   text-align: center;
+}
